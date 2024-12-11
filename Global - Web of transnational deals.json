@@ -1,0 +1,259 @@
+{
+  "name": "lama",
+  "children": [
+    {
+      "name": 2,
+      "children": [
+        {
+          "id": 24,
+          "name": "Angola",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 204,
+          "name": "Benin",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 120,
+          "name": "Cameroon",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 178,
+          "name": "Congo, Rep.",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 231,
+          "name": "Ethiopia",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 266,
+          "name": "Gabon",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 288,
+          "name": "Ghana",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 324,
+          "name": "Guinea",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 404,
+          "name": "Kenya",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 430,
+          "name": "Liberia",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 450,
+          "name": "Madagascar",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 508,
+          "name": "Mozambique",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 686,
+          "name": "Senegal",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 710,
+          "name": "South Africa",
+          "imports": [
+            "lama.150.Italy",
+            "lama.142.Qatar"
+          ]
+        },
+        {
+          "id": 834,
+          "name": "Tanzania",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": 419,
+      "children": [
+        {
+          "id": 32,
+          "name": "Argentina",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 76,
+          "name": "Brazil",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 340,
+          "name": "Honduras",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": 21,
+      "children": [
+        {
+          "id": 124,
+          "name": "Canada",
+          "imports": []
+        }
+      ]
+    },
+    {
+      "name": 142,
+      "children": [
+        {
+          "id": 156,
+          "name": "China",
+          "imports": [
+            "lama.21.Canada",
+            "lama.150.France",
+            "lama.150.Italy",
+            "lama.142.Japan",
+            "lama.150.Luxembourg",
+            "lama.150.Spain"
+          ]
+        },
+        {
+          "id": 360,
+          "name": "Indonesia",
+          "imports": [
+            "lama.150.France",
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 392,
+          "name": "Japan",
+          "imports": []
+        },
+        {
+          "id": 634,
+          "name": "Qatar",
+          "imports": []
+        },
+        {
+          "id": 682,
+          "name": "Saudi Arabia",
+          "imports": []
+        },
+        {
+          "id": 792,
+          "name": "Türkiye",
+          "imports": [
+            "lama.150.Italy",
+            "lama.142.Saudi Arabia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": 150,
+      "children": [
+        {
+          "id": 250,
+          "name": "France",
+          "imports": []
+        },
+        {
+          "id": 380,
+          "name": "Italy",
+          "imports": []
+        },
+        {
+          "id": 398,
+          "name": "Kazakhstan",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 442,
+          "name": "Luxembourg",
+          "imports": []
+        },
+        {
+          "id": 528,
+          "name": "Netherlands",
+          "imports": []
+        },
+        {
+          "id": 642,
+          "name": "Romania",
+          "imports": [
+            "lama.150.Italy",
+            "lama.150.Netherlands"
+          ]
+        },
+        {
+          "id": 724,
+          "name": "Spain",
+          "imports": []
+        },
+        {
+          "id": 804,
+          "name": "Ukraine",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        },
+        {
+          "id": 860,
+          "name": "Uzbekistan",
+          "imports": [
+            "lama.150.Italy"
+          ]
+        }
+      ]
+    }
+  ]
+}
